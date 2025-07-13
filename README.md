@@ -5,3 +5,4 @@ This repository contains a school project completed as part of my academic work 
 The project focuses on Malliavin calculus and Monte Carlo methods, combining mathematical theory and programming implementation in Python.  
 
 It was developed for educational purposes and illustrates techniques in stochastic analysis and simulation.
+Final grade received: 14.5 / 20
